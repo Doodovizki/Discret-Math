@@ -1,0 +1,7 @@
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\obj\Debug\Discret_2.csprojAssemblyReference.cache
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\obj\Debug\Discret_2.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\bin\Debug\Discret_2.exe.config
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\bin\Debug\Discret_2.exe
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\bin\Debug\Discret_2.pdb
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\obj\Debug\Discret_2.exe
+C:\Users\Глеб\source\repos\Discret_2\Discret_2\obj\Debug\Discret_2.pdb
